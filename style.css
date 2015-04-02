@@ -4,3 +4,6 @@ body {
 .filler {
   padding: 50px;
 }
+.filler:hover {
+  padding: 0px;
+}
