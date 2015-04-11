@@ -173,8 +173,10 @@ body{
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -228,7 +230,8 @@ body{
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
   line-height: 1500px;
 }
@@ -292,8 +295,10 @@ button a {
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -356,8 +361,10 @@ body{
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -420,8 +427,10 @@ body{
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -556,8 +565,10 @@ body{
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -598,8 +609,10 @@ button a {
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
