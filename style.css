@@ -198,6 +198,19 @@ button a {
   top: 1000px;
   left: 40%;
 }
+.barnames{
+
+}
+.bars{
+  text-align: center;
+  line-height: 200px;
+  height: 220px;
+  background-color: #fff;
+}
+.bars:nth-child(even){
+  background-color: #aaa;
+  height: 220px;
+}
 }
 /* ----------- iPhone 4 and 4S ----------- */
 
@@ -253,6 +266,19 @@ button a {
   position: fixed;
   top: 1000px;
   left: 40%;
+}
+.barnames{
+
+}
+.bars{
+  text-align: center;
+  line-height: 200px;
+  height: 220px;
+  background-color: #fff;
+}
+.bars:nth-child(even){
+  background-color: #aaa;
+  height: 220px;
 }
 }
 
@@ -320,6 +346,19 @@ button a {
   top: 1000px;
   left: 40%;
 }
+.barnames{
+
+}
+.bars{
+  text-align: center;
+  line-height: 200px;
+  height: 220px;
+  background-color: #fff;
+}
+.bars:nth-child(even){
+  background-color: #aaa;
+  height: 220px;
+}
 }
 
 /* Landscape */
@@ -386,6 +425,19 @@ button a {
   top: 1000px;
   left: 40%;
 }
+.barnames{
+
+}
+.bars{
+  text-align: center;
+  line-height: 200px;
+  height: 220px;
+  background-color: #fff;
+}
+.bars:nth-child(even){
+  background-color: #aaa;
+  height: 220px;
+}
 }
 
 /* Landscape */
@@ -451,6 +503,19 @@ button a {
   position: fixed;
   top: 1000px;
   left: 40%;
+}
+.barnames{
+
+}
+.bars{
+  text-align: center;
+  line-height: 200px;
+  height: 220px;
+  background-color: #fff;
+}
+.bars:nth-child(even){
+  background-color: #aaa;
+  height: 220px;
 }
 }
 
@@ -590,6 +655,19 @@ button a {
   top: 1000px;
   left: 40%;
 }
+.barnames{
+
+}
+.bars{
+  text-align: center;
+  line-height: 200px;
+  height: 220px;
+  background-color: #fff;
+}
+.bars:nth-child(even){
+  background-color: #aaa;
+  height: 220px;
+}
 }
 @media only screen 
   and (min-device-width: 20em)  
@@ -633,5 +711,18 @@ button a {
   position: fixed;
   top: 1000px;
   left: 40%;
+}
+.barnames{
+
+}
+.bars{
+  text-align: center;
+  line-height: 200px;
+  height: 220px;
+  background-color: #fff;
+}
+.bars:nth-child(even){
+  background-color: #aaa;
+  height: 220px;
 }
   }
