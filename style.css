@@ -173,7 +173,9 @@ body{
   visibility: visible;
   position: inherit;
 }
-
+body .peanuts {
+  background-image: url();
+}
 .noome {
   background-image: url(images/logo1.png);
   color: #fff;
@@ -260,7 +262,9 @@ body{
   visibility: visible;
   position: inherit;
 }
-
+body .peanuts {
+  background-image: url();
+}
 .noome {
   background-image: url(images/logo1.png);
   c
@@ -354,7 +358,9 @@ button a {
   visibility: visible;
   position: inherit;
 }
-
+body .peanuts {
+  background-image: url();
+}
 .noome {
   background-image: url(images/logo1.png);
   color: #fff;
@@ -450,7 +456,9 @@ body{
   visibility: visible;
   position: inherit;
 }
-
+body .peanuts {
+  background-image: url();
+}
 .noome {
   background-image: url(images/logo1.png);
   color: #fff;
@@ -546,7 +554,9 @@ body{
   visibility: visible;
   position: inherit;
 }
-
+body .peanuts {
+  background-image: url();
+}
 .noome {
   background-image: url(images/logo1.png);
   color: #fff;
@@ -714,7 +724,9 @@ body{
   visibility: visible;
   position: inherit;
 }
-
+body .peanuts {
+  background-image: url();
+}
 .noome {
   background-image: url(images/logo1.png);
   color: #fff;
@@ -788,7 +800,9 @@ button a {
   visibility: visible;
   position: inherit;
 }
-
+body .peanuts {
+  background-image: url();
+}
 .noome {
   background-image: url(images/logo1.png);
   color: #fff;

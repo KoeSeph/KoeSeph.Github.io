@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e1b88dbd-f9d0-4860-a556-21b14403461e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="KoeSeph.Github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +38,11 @@
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.5">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding />
+              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <marker date="1428784320000" expanded="true" signature="2860:2985" placeholder="{...}" />
+                <marker date="1428784320000" expanded="true" signature="14878:14880" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -231,12 +233,12 @@
       <created>1428778212158</created>
       <option name="number" value="Default" />
       <updated>1428778212158</updated>
-      <workItem from="1428778213743" duration="903000" />
+      <workItem from="1428778213743" duration="990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="903000" />
+    <option name="totallyTimeSpent" value="990000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -303,8 +305,11 @@
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <marker date="1428784320000" expanded="true" signature="2860:2985" placeholder="{...}" />
+            <marker date="1428784320000" expanded="true" signature="14878:14880" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
