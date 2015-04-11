@@ -189,6 +189,7 @@ h1 {
   top: 900px;
   left: 350px;
 }
+
 button a {
   text-decoration: none;
   color: #000;
@@ -204,6 +205,19 @@ button a {
 }
 .accepting{
   font-size: 50px;
+  width: 200px;
 }
-
+.friendSelection > .accepting {
+  position: fixed;
+  margin-left: 42%;
+}
+.dropArea {
+  height: 250px;
+  width: 400px;
+  background-color: #a123a4;
+  margin-top: 10%;
+  margin-left: 30%;
+  text-align: center;
+  line-height: 200px;
+}
   }
