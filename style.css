@@ -161,7 +161,7 @@ and (max-width : 320px) {
 /* STYLES GO HERE */
 body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -173,8 +173,10 @@ body{
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -183,6 +185,10 @@ h1 {
   top: 900px;
   left: 350px;
 }
+button a {
+  text-decoration: none;
+  color: #000;
+}
 .circle {
   height: 150px;
   width: 150px;
@@ -190,7 +196,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 /* ----------- iPhone 4 and 4S ----------- */
@@ -212,7 +218,7 @@ h1 {
 
 body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -224,7 +230,8 @@ body{
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
   line-height: 1500px;
 }
@@ -234,6 +241,10 @@ h1 {
   top: 900px;
   left: 350px;
 }
+button a {
+  text-decoration: none;
+  color: #000;
+}
 .circle {
   height: 150px;
   width: 150px;
@@ -241,7 +252,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 
@@ -272,7 +283,7 @@ h1 {
   and (orientation: portrait) {
     body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -284,8 +295,10 @@ h1 {
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -294,6 +307,10 @@ h1 {
   top: 900px;
   left: 350px;
 }
+button a {
+  text-decoration: none;
+  color: #000;
+}
 .circle {
   height: 150px;
   width: 150px;
@@ -301,7 +318,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 
@@ -332,7 +349,7 @@ h1 {
   and (orientation: portrait) { 
 body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -344,8 +361,10 @@ body{
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -354,6 +373,10 @@ h1 {
   top: 900px;
   left: 350px;
 }
+button a {
+  text-decoration: none;
+  color: #000;
+}
 .circle {
   height: 150px;
   width: 150px;
@@ -361,7 +384,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 
@@ -392,7 +415,7 @@ h1 {
   and (orientation: portrait) { 
 body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -404,8 +427,10 @@ body{
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -414,6 +439,10 @@ h1 {
   top: 900px;
   left: 350px;
 }
+button a {
+  text-decoration: none;
+  color: #000;
+}
 .circle {
   height: 150px;
   width: 150px;
@@ -421,7 +450,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 
@@ -524,7 +553,7 @@ h1 {
   and (orientation: portrait) {
 body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -536,8 +565,10 @@ body{
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -546,6 +577,10 @@ h1 {
   top: 900px;
   left: 350px;
 }
+button a {
+  text-decoration: none;
+  color: #000;
+}
 .circle {
   height: 150px;
   width: 150px;
@@ -553,7 +588,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 @media only screen 
@@ -562,7 +597,7 @@ h1 {
 
     body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -574,8 +609,10 @@ h1 {
   visibility: visible;
   position: inherit;
 }
-h1 {
+.noome {
+  position: fixed;
   text-align: center;
+  left: 30%;
   line-height: 1500px;
 }
 .userName {
@@ -584,6 +621,10 @@ h1 {
   top: 900px;
   left: 350px;
 }
+button a {
+  text-decoration: none;
+  color: #000;
+}
 .circle {
   height: 150px;
   width: 150px;
@@ -591,6 +632,6 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
   }
