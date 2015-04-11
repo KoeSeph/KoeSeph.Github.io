@@ -161,7 +161,7 @@ and (max-width : 320px) {
 /* STYLES GO HERE */
 body{
   font-size: 75px;
-  background-image: url(images/raptorjebus.jpg);
+  background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -175,6 +175,7 @@ body{
 }
 
 .noome {
+  color: #fff;
   position: fixed;
   text-align: center;
   left: 30%;
@@ -232,7 +233,7 @@ button a {
 
 body{
   font-size: 75px;
-  background-image: url(images/raptorjebus.jpg);
+  background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -246,6 +247,7 @@ body{
 }
 
 .noome {
+  color: #fff;
   position: fixed;
   text-align: center;
   line-height: 1500px;
@@ -311,7 +313,7 @@ button a {
   and (orientation: portrait) {
     body{
   font-size: 75px;
-  background-image: url(images/raptorjebus.jpg);
+  background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -325,6 +327,7 @@ button a {
 }
 
 .noome {
+  color: #fff;
   position: fixed;
   text-align: center;
   left: 30%;
@@ -391,7 +394,7 @@ button a {
   and (orientation: portrait) { 
 body{
   font-size: 75px;
-  background-image: url(images/raptorjebus.jpg);
+  background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -405,6 +408,7 @@ body{
 }
 
 .noome {
+  color: #fff;
   position: fixed;
   text-align: center;
   left: 30%;
@@ -471,7 +475,7 @@ button a {
   and (orientation: portrait) { 
 body{
   font-size: 75px;
-  background-image: url(images/raptorjebus.jpg);
+  background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -485,6 +489,7 @@ body{
 }
 
 .noome {
+  color: #fff;
   position: fixed;
   text-align: center;
   left: 30%;
@@ -623,7 +628,7 @@ button a {
   and (orientation: portrait) {
 body{
   font-size: 75px;
-  background-image: url(images/raptorjebus.jpg);
+  background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -637,6 +642,7 @@ body{
 }
 
 .noome {
+  color: #fff;
   position: fixed;
   text-align: center;
   left: 30%;
@@ -681,7 +687,7 @@ button a {
 
     body{
   font-size: 75px;
-  background-image: url(images/raptorjebus.jpg);
+  background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -695,6 +701,7 @@ button a {
 }
 
 .noome {
+  color: #fff;
   position: fixed;
   text-align: center;
   left: 30%;
