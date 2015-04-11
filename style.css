@@ -54,7 +54,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 /* ----------- iPhone 4 and 4S ----------- */
@@ -105,7 +105,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 
@@ -165,7 +165,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 
@@ -225,7 +225,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 
@@ -285,7 +285,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 
@@ -417,7 +417,7 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
 }
 @media only screen 
@@ -455,6 +455,6 @@ h1 {
   background-color: #f00;
   position: fixed;
   top: 1000px;
-  left: 380px;
+  left: 40%;
 }
   }
