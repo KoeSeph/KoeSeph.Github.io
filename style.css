@@ -163,7 +163,7 @@ body{
   font-size: 75px;
   background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
-  background-size: 980px 880px;
+  background-size: 980px 680px;
 }
 .webpage{
   visibility: hidden;
@@ -175,11 +175,16 @@ body{
 }
 
 .noome {
+  background-image: url(images/logo1.png);
   color: #fff;
   position: fixed;
+  background-size: cover;
+  top: 700px;
   text-align: center;
   left: 30%;
-  line-height: 1500px;
+  z-index: 2;
+  width: 408px;
+  height: 120px;
 }
 .userName {
   position: fixed;
@@ -235,7 +240,7 @@ body{
   font-size: 75px;
   background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
-  background-size: 980px 880px;
+  background-size: 980px 680px;
 }
 .webpage{
   visibility: hidden;
@@ -247,11 +252,15 @@ body{
 }
 
 .noome {
-  color: #fff;
+  background-image: url(images/logo1.png);
+  c
+  background-size: cover;
+  top: 700px;
   position: fixed;
-  text-align: center;
-  line-height: 1500px;
-}
+  z-index: 2;
+  width: 408px;
+  height: 120px;
+  
 .userName {
   position: fixed;
   font-size: 50px;
@@ -315,7 +324,7 @@ button a {
   font-size: 75px;
   background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
-  background-size: 980px 880px;
+  background-size: 980px 680px;
 }
 .webpage{
   visibility: hidden;
@@ -327,11 +336,16 @@ button a {
 }
 
 .noome {
+  background-image: url(images/logo1.png);
   color: #fff;
   position: fixed;
+  background-size: cover;
+  top: 700px;
   text-align: center;
   left: 30%;
-  line-height: 1500px;
+  z-index: 2;
+  width: 408px;
+  height: 120px;
 }
 .userName {
   position: fixed;
@@ -396,7 +410,7 @@ body{
   font-size: 75px;
   background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
-  background-size: 980px 880px;
+  background-size: 980px 680px;
 }
 .webpage{
   visibility: hidden;
@@ -408,11 +422,16 @@ body{
 }
 
 .noome {
+  background-image: url(images/logo1.png);
   color: #fff;
   position: fixed;
+  background-size: cover;
+  top: 700px;
   text-align: center;
   left: 30%;
-  line-height: 1500px;
+  z-index: 2;
+  width: 408px;
+  height: 120px;
 }
 .userName {
   position: fixed;
@@ -477,7 +496,7 @@ body{
   font-size: 75px;
   background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
-  background-size: 980px 880px;
+  background-size: 980px 680px;
 }
 .webpage{
   visibility: hidden;
@@ -489,11 +508,16 @@ body{
 }
 
 .noome {
+  background-image: url(images/logo1.png);
   color: #fff;
   position: fixed;
+  background-size: cover;
+  top: 700px;
   text-align: center;
   left: 30%;
-  line-height: 1500px;
+  z-index: 2;
+  width: 408px;
+  height: 120px;
 }
 .userName {
   position: fixed;
@@ -630,7 +654,7 @@ body{
   font-size: 75px;
   background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
-  background-size: 980px 880px;
+  background-size: 980px 680px;
 }
 .webpage{
   visibility: hidden;
@@ -642,11 +666,16 @@ body{
 }
 
 .noome {
+  background-image: url(images/logo1.png);
   color: #fff;
   position: fixed;
+  background-size: cover;
+  top: 700px;
   text-align: center;
   left: 30%;
-  line-height: 1500px;
+  z-index: 2;
+  width: 408px;
+  height: 120px;
 }
 .userName {
   position: fixed;
@@ -689,7 +718,7 @@ button a {
   font-size: 75px;
   background-image: url(images/beerthing.jpg);
   background-repeat: no-repeat;
-  background-size: 980px 880px;
+  background-size: 980px 680px;
 }
 .webpage{
   visibility: hidden;
@@ -701,11 +730,16 @@ button a {
 }
 
 .noome {
+  background-image: url(images/logo1.png);
   color: #fff;
   position: fixed;
+  background-size: cover;
+  top: 700px;
   text-align: center;
   left: 30%;
-  line-height: 1500px;
+  z-index: 2;
+  width: 408px;
+  height: 120px;
 }
 .userName {
   position: fixed;
