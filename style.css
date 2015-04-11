@@ -1,7 +1,341 @@
-body {
-  text-align: center;
-  background-color: #ddd;
+
+.phones {
+  visibility: hidden;
+  position: fixed;
 }
-.filler {
-  padding: 50px;
+body {
+  background-color: #aaa;
+}
+.welcome {
+  text-align: center;
+  line-height: 120px;
+  font-size: 30px;
+}
+.webpage p {
+  padding: 40px;
+}
+
+
+/*--------------MEDIA QUERY----------------*/
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+
+body{
+  font-size: 75px;
+  background-image: url(raptorjebus.jpg);
+  background-repeat: no-repeat;
+  background-size: 980px 880px;
+}
+.webpage{
+  visibility: hidden;
+  position: fixed;
+}
+.phones{
+  visibility: visible;
+  position: inherit;
+}
+h1 {
+  text-align: center;
+  line-height: 1500px;
+}
+.userName {
+  position: fixed;
+  font-size: 50px;
+  top: 900px;
+  left: 350px;
+}
+.circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 4000px;
+  background-color: #f00;
+  position: fixed;
+  top: 1000px;
+  left: 380px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+    body{
+  font-size: 75px;
+  background-image: url(raptorjebus.jpg);
+  background-repeat: no-repeat;
+  background-size: 980px 880px;
+}
+.webpage{
+  visibility: hidden;
+  position: fixed;
+}
+.phones{
+  visibility: visible;
+  position: inherit;
+}
+h1 {
+  text-align: center;
+  line-height: 1500px;
+}
+.userName {
+  position: fixed;
+  font-size: 50px;
+  top: 900px;
+  left: 350px;
+}
+.circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 4000px;
+  background-color: #f00;
+  position: fixed;
+  top: 1000px;
+  left: 380px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+}
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+body{
+  font-size: 75px;
+  background-image: url(raptorjebus.jpg);
+  background-repeat: no-repeat;
+  background-size: 980px 880px;
+}
+.webpage{
+  visibility: hidden;
+  position: fixed;
+}
+.phones{
+  visibility: visible;
+  position: inherit;
+}
+h1 {
+  text-align: center;
+  line-height: 1500px;
+}
+.userName {
+  position: fixed;
+  font-size: 50px;
+  top: 900px;
+  left: 350px;
+}
+.circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 4000px;
+  background-color: #f00;
+  position: fixed;
+  top: 1000px;
+  left: 380px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+body{
+  font-size: 75px;
+  background-image: url(raptorjebus.jpg);
+  background-repeat: no-repeat;
+  background-size: 980px 880px;
+}
+.webpage{
+  visibility: hidden;
+  position: fixed;
+}
+.phones{
+  visibility: visible;
+  position: inherit;
+}
+h1 {
+  text-align: center;
+  line-height: 1500px;
+}
+.userName {
+  position: fixed;
+  font-size: 50px;
+  top: 900px;
+  left: 350px;
+}
+.circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 4000px;
+  background-color: #f00;
+  position: fixed;
+  top: 1000px;
+  left: 380px;
+}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+
+}
+
+/* ----------- iPad mini ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* ----------- iPad 1 and 2 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* ----------- iPad 3 and 4 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
 }
