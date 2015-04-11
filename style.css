@@ -25,7 +25,7 @@ and (max-width : 320px) {
 /* STYLES GO HERE */
 body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -80,7 +80,7 @@ button a {
 
 body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -144,7 +144,7 @@ button a {
   and (orientation: portrait) {
     body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -208,7 +208,7 @@ button a {
   and (orientation: portrait) { 
 body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -272,7 +272,7 @@ button a {
   and (orientation: portrait) { 
 body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -408,7 +408,7 @@ button a {
   and (orientation: portrait) {
 body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
@@ -450,7 +450,7 @@ button a {
 
     body{
   font-size: 75px;
-  background-image: url(raptorjebus.jpg);
+  background-image: url(images/raptorjebus.jpg);
   background-repeat: no-repeat;
   background-size: 980px 880px;
 }
