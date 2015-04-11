@@ -17,6 +17,46 @@ body {
 
 
 /*--------------MEDIA QUERY----------------*/
+/*------------------Generalized smartphones---------*/
+
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 320px) {
+/* STYLES GO HERE */
+body{
+  font-size: 75px;
+  background-image: url(raptorjebus.jpg);
+  background-repeat: no-repeat;
+  background-size: 980px 880px;
+}
+.webpage{
+  visibility: hidden;
+  position: fixed;
+}
+.phones{
+  visibility: visible;
+  position: inherit;
+}
+h1 {
+  text-align: center;
+  line-height: 1500px;
+}
+.userName {
+  position: fixed;
+  font-size: 50px;
+  top: 900px;
+  left: 350px;
+}
+.circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 4000px;
+  background-color: #f00;
+  position: fixed;
+  top: 1000px;
+  left: 380px;
+}
+}
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
