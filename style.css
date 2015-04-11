@@ -420,3 +420,41 @@ h1 {
   left: 380px;
 }
 }
+@media only screen 
+  and (min-device-width: 20em)  
+  and (max-device-width: 30em) {
+
+    body{
+  font-size: 75px;
+  background-image: url(raptorjebus.jpg);
+  background-repeat: no-repeat;
+  background-size: 980px 880px;
+}
+.webpage{
+  visibility: hidden;
+  position: fixed;
+}
+.phones{
+  visibility: visible;
+  position: inherit;
+}
+h1 {
+  text-align: center;
+  line-height: 1500px;
+}
+.userName {
+  position: fixed;
+  font-size: 50px;
+  top: 900px;
+  left: 350px;
+}
+.circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 4000px;
+  background-color: #f00;
+  position: fixed;
+  top: 1000px;
+  left: 380px;
+}
+  }
